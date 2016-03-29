@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Main
 group: navigation
 permalink: "index.html"
 ---
