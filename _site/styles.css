@@ -1,0 +1,8 @@
+/* css styles */
+
+
+.table-indent {
+  margin-left: -5em; /* Adjust this value as needed */
+  width: auto;
+  /*margin-right: auto;  /* Optional: balance it out */
+}

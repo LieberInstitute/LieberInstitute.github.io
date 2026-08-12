@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lieber Institute for Brain Development - Application Home",
+    "section": "",
+    "text": "Welcome to to the landing page for web applications that have been developed by the scientists at the Lieber Institute for Brain Development. Here you can find a list of web visualization apps that we’ve created as part of our work and have been cited in manuscripts.\nTo learn more about the Lieber Institute for Brain Development and our work, please, visit https://www.libd.org/."
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Project Documentation",
+    "section": "",
+    "text": "Prominent application types used in this project are shiny apps, iSEE apps, and Samui apps."
+  },
+  {
+    "objectID": "documentation.html#spatiallibd",
+    "href": "documentation.html#spatiallibd",
+    "title": "Project Documentation",
+    "section": "2.1 spatialLIBD",
+    "text": "2.1 spatialLIBD\nspatialLIBD spatialLIBD on BioConductor"
+  },
+  {
+    "objectID": "documentation.html#isee",
+    "href": "documentation.html#isee",
+    "title": "Project Documentation",
+    "section": "2.2 iSEE",
+    "text": "2.2 iSEE\niSEE iSEE on BioConductor"
+  },
+  {
+    "objectID": "documentation.html#shiny",
+    "href": "documentation.html#shiny",
+    "title": "Project Documentation",
+    "section": "2.3 shiny",
+    "text": "2.3 shiny\nshiny"
+  },
+  {
+    "objectID": "documentation.html#samui",
+    "href": "documentation.html#samui",
+    "title": "Project Documentation",
+    "section": "2.4 Samui",
+    "text": "2.4 Samui\nSamui Browser Samui on GitHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Lieber Institute for Brain Development - Application Home",
+    "section": "",
+    "text": "The mission of the Lieber Institute for Brain Development Maltz Research Laboratories is to translate the understanding of basic genetic and molecular mechanisms of schizophrenia and related developmental brain disorders into clinical advances that change the lives of affected individuals.\nMore information about the Lieber Institute for Brain Development can be found at https://www.libd.org/."
+  }
+]
