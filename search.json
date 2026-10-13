@@ -4,12 +4,12 @@
     "href": "index.html",
     "title": "Lieber Institute for Brain Development - Application Home",
     "section": "",
-    "text": "Welcome to to the landing page for web applications that have been developed by the scientists at the Lieber Institute for Brain Development. Here you can find a list of web visualization apps that we’ve created as part of our work and have been cited in manuscripts.\nTo learn more about the Lieber Institute for Brain Development and our work, please, visit https://www.libd.org/."
+    "text": "Welcome to to the landing page for web applications that have been developed by the scientists at the Lieber Institute for Brain Development. Here you can find a list of web visualization apps that we’ve created as part of our work and have been cited in manuscripts.\nFor analysis files used in our projects you can visit our website for projects shared on Globus: https://research.libd.org/globus/.\nTo learn more about the Lieber Institute for Brain Development and our work, please, visit https://www.libd.org/."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Application Home: Lieber Institute for Brain Development",
+    "title": "Lieber Institute for Brain Development: Applications Home",
     "section": "",
     "text": "The mission of the Lieber Institute for Brain Development Maltz Research Laboratories is to translate the understanding of basic genetic and molecular mechanisms of schizophrenia and related developmental brain disorders into clinical advances that change the lives of affected individuals.\nMore information about the Lieber Institute for Brain Development can be found at https://www.libd.org/."
   },
@@ -53,7 +53,7 @@
     "href": "glossary.html",
     "title": "Glossary",
     "section": "",
-    "text": "ACC - anterior cingulate cortex\nAMY - amygdala\nBA - Brodmann area\nBLA - basolateral amygdala\nDACC - dorsal anterior cingulate cortex\nDG - dentate gyrus\nDLPFC - dorsolateral prefrontal cortex\nDRN - dorsal raphe nucleus\nERC - entorhinal cortex\nHPC - hippocampus\nHYP - hypothalamus\nLC - locus coeruleus\nLS - lateral septum\nNAC - nucleus acumbens\nTHAL - thalamus"
+    "text": "ACC - anterior cingulate cortex\nAMY - amygdala\nBA - Brodmann area\nBLA - basolateral amygdala\nDACC - dorsal anterior cingulate cortex\nDG - dentate gyrus\nDLPFC - dorsolateral prefrontal cortex\n ERC - entorhinal cortex\nHPC - hippocampus\nHYP - hypothalamus\nLC - locus coeruleus\nLS - lateral septum\nNAC - nucleus acumbens"
   },
   {
     "objectID": "glossary.html#initials-for-brain-regions",
@@ -72,7 +72,7 @@
   {
     "objectID": "about.html#people-involved-with-this-site",
     "href": "about.html#people-involved-with-this-site",
-    "title": "Application Home: Lieber Institute for Brain Development",
+    "title": "Lieber Institute for Brain Development: Applications Home",
     "section": "People Involved with this site",
     "text": "People Involved with this site\nKeri Martinowich - Chief Scientific Officer\nRyan Miller - Staff Scientist, GitHub\nStephanie Cerceo Page - Investigator\nLeonardo Collado Torres - Investigator, GitHub\nKristen Maynard - Lead Investigator"
   },
@@ -81,13 +81,13 @@
     "href": "glossary.html#abbreviations-for-brain-regions",
     "title": "Glossary",
     "section": "",
-    "text": "ACC - anterior cingulate cortex\nAMY - amygdala\nBA - Brodmann area\nBLA - basolateral amygdala\nDACC - dorsal anterior cingulate cortex\nDG - dentate gyrus\nDLPFC - dorsolateral prefrontal cortex\nDRN - dorsal raphe nucleus\nERC - entorhinal cortex\nHPC - hippocampus\nHYP - hypothalamus\nLC - locus coeruleus\nLS - lateral septum\nNAC - nucleus acumbens\nTHAL - thalamus"
+    "text": "ACC - anterior cingulate cortex\nAMY - amygdala\nBA - Brodmann area\nBLA - basolateral amygdala\nDACC - dorsal anterior cingulate cortex\nDG - dentate gyrus\nDLPFC - dorsolateral prefrontal cortex\n ERC - entorhinal cortex\nHPC - hippocampus\nHYP - hypothalamus\nLC - locus coeruleus\nLS - lateral septum\nNAC - nucleus acumbens"
   },
   {
     "objectID": "glossary.html#other-abbreviations",
     "href": "glossary.html#other-abbreviations",
     "title": "Glossary",
     "section": "Other Abbreviations",
-    "text": "Other Abbreviations\nASD - autism spectram disorder\nBPD - bipolar disorder\nLIBD - Lieber Institute for Brain Development\nMDD - major depressive disorder\nSCZ - schizophrenia"
+    "text": "Other Abbreviations\nASD - autism spectrum disorder\nBD - bipolar disorder\nLIBD - Lieber Institute for Brain Development\nMDD - major depressive disorder\nSCZ - schizophrenia"
   }
 ]
